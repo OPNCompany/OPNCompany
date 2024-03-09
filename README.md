@@ -1,2 +1,2 @@
 # OPNCompany
-Company zu entiklung von opensurce stuff
+An open source technology development company.
